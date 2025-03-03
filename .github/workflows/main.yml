@@ -5,8 +5,8 @@ on:
 
 env:
   SERVER_HOST: 158.160.1.198
-  SERVER_USER: root
-  SERVER_PATH: /root/github-test
+  SERVER_USER: kirillyan
+  SERVER_PATH: /home/kirillyan
 
 jobs:
 
